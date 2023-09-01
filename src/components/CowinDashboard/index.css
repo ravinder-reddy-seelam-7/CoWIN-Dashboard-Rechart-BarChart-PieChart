@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #161625;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.nav-container {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+}
+.nav-text {
+  margin-left: 10px;
+  color: #2cc6c6;
+  font-weight: bold;
+}
+.heading {
+  color: #cbd5e1;
+}
+.graph-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.failure-route-bg-container {
+  width: 50%;
+}
+.failure-image {
+  width: 100%;
+}
+.failure-text {
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+}
+.loader-bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

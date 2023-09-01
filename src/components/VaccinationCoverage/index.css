@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.coverage-container {
+  background-color: #1c1c2b;
+  padding-bottom: 15px;
+  margin-top: 20px;
+  width: 100%;
+}
+.coverage-heading {
+  color: #cbd5e1;
+  margin-left: 25px;
+}
